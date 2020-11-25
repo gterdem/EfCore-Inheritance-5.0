@@ -1,5 +1,5 @@
 # EfCore-Inheritance
-EfCore Inheritance test project
+EfCore Inheritance test on EfCore 5.0.0
 
 ### Db Creation-Migration
 
