@@ -3,9 +3,6 @@ EfCore Inheritance test project
 
 ### Db Creation-Migration
 
-run command `dotnet ef migrations add InitialCreate --startup-project ../EfInheritance.API/EfInheritance.API.csproj --verbose` under **EfInheritance.Domain** folder for migrations.
-
-
 
 run command `dotnet ef database update --startup-project ../EfInheritance.API/EfInheritance.API.csproj --verbose`  under **EfInheritance.Domain** folder to update database.
 
